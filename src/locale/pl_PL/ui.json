@@ -1,0 +1,38 @@
+{
+  "menu.home": "Strona główna",
+  "menu.account": "Twoje konto",
+  "menu.login": "Zaloguj się",
+  "menu.users": "Użytkownicy",
+
+  "header.login": "Zaloguj się",
+  "header.yours.currently.borrowed": "Aktualnie wypożyczasz:",
+  "header.not.borrowing": "Nie wypożyczasz żadnej książki",
+  "header.available.books": "Dostępne książki",
+  "header.all.books": "Wszystkie książki",
+  "header.is.currently.borrowing": "Obecnie wypożycza:",
+  "header.not.borrowing.anything": "Nic nie wypożycza",
+
+  "placeholder.login": "Twój login",
+  "placeholder.email": "Twój adres e-mail",
+  "placeholder.password": "Twoje hasło",
+
+  "button.login": "Zaloguj się",
+  "button.logout": "Wyloguj się",
+  "button.loan.this.book": "Wypożyczam",
+  "button.show.books": "Pokaż / ukryj wypożyczone książki",
+  "button.return.this.book": "Zwróć",
+
+  "text.welcome": "Witaj ",
+  "message.notFound": "Strony nie znaleziono",
+
+  "message.you.borrowed.a.book": "Właśnie wypożyczyłeś książkę",
+  "message.you.returned.a.book": "Książka została zwrócona",
+
+  "Auth.form.error.unauthorized": "Błąd autoryzacji.",
+  "Auth.form.error.blocked": "Twoje konto zostało zablokowane przez administratora.",
+  "Auth.form.error.email.provide": "Wpisz swoją nazwę użytkownika.",
+  "Auth.form.error.invalid": "Niepoprawny login lub hasło.",
+  "Auth.form.error.password.provide": "Podaj hasło.",
+  "Auth.form.success.logged.out": "Zostałeś wylogowany.",
+  "Auth.form.success.logged.in": "Zostałeś zalogowany."
+}

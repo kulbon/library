@@ -1,0 +1,38 @@
+{
+  "menu.home": "Home",
+  "menu.account": "Account",
+  "menu.login": "Log in",
+  "menu.users": "Users",
+
+  "header.login": "Log in",
+  "header.yours.currently.borrowed": "Your borrowed books:",
+  "header.not.borrowing": "You don't borrow any book",
+  "header.available.books": "Books available",
+  "header.all.books": "All books",
+  "header.is.currently.borrowing": "Currently borrowing:",
+  "header.not.borrowing.anything": "Not borrowing anything.",
+
+  "placeholder.login": "Your username",
+  "placeholder.email": "Your e-mail address",
+  "placeholder.password": "Your password",
+
+  "button.login": "Log in",
+  "button.logout": "Log out",
+  "button.loan.this.book": "Borrow this book",
+  "button.show.books": "Show / hide borrowed books",
+  "button.return.this.book": "Return this book",
+
+  "text.welcome": "Welcome ",
+  "message.notFound": "Page not found",
+
+  "message.you.borrowed.a.book": "You just borrowed a book",
+  "message.you.returned.a.book": "The book has been returned",
+
+  "Auth.form.error.unauthorized": "Unauthorized",
+  "Auth.form.error.blocked": "Twoje konto zostało zablokowane przez administratora.",
+  "Auth.form.error.email.provide": "Enter your username.",
+  "Auth.form.error.invalid": "Invalid login or password.",
+  "Auth.form.error.password.provide": "Enter the password.",
+  "Auth.form.success.logged.out": "You have been logged out.",
+  "Auth.form.success.logged.in": "You have been logged in."
+}
