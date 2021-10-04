@@ -2,9 +2,9 @@
 [View demo](https://react-quizzes.netlify.app/)
 
 ### Authentication:
-client client123!
-client2 client123!
-librarian librarian123!
+client client123!<br />
+client2 client123!<br />
+librarian librarian123!<br />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
