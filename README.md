@@ -1,5 +1,5 @@
 ## Demo
-[View demo](https://react-quizzes.netlify.app/)
+[View demo](https://react-library-strapi.netlify.app/)
 
 ### Authentication:
 client client123!<br />
